@@ -4,11 +4,11 @@
 
 The ** LCDDisplay ** Eclipse Java Project is one component of the
 ** RobotCar Project **.  This project is for controlling a
-[RGB1602 LCD Module] (https://wiki.52pi.com/index.php/RGB_1602(English)),
+[RGB1602 LCD Module](https://wiki.52pi.com/index.php/RGB_1602(English)),
 that is the only display on the Robot Car.
 
 The LCD Display Hat used communicates with the Raspberry Pi using
-** [I2C] (https://i2c.info/i2c-bus-specification) **.
+[**I2C**](https://i2c.info/i2c-bus-specification).
 
 ## Requirements for building
 
@@ -18,7 +18,7 @@ The LCD Display Hat used communicates with the Raspberry Pi using
 
 ### External Jar Files Requirement
 
-Uses the [Pi4J Project] (https://pi4j.com/1.2/index.html) Version 1.2
+Uses the [Pi4J Project](https://pi4j.com/1.2/index.html) Version 1.2
 
 Jar Files required:
 
@@ -30,7 +30,7 @@ Jar Files required:
 ## Robot Car Blog
 
 For more information about the Robot Car project check out the
-[RobotCar Blog] (https://steven.lebruns.com/category/robotics_blog/)
+[RobotCar Blog](https://steven.lebruns.com/category/robotics_blog/)
 
 
 
